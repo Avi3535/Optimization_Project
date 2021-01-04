@@ -4,7 +4,7 @@ The objective of this report is to recognize handwritten digits(HWDR) using prin
 
 The dataset is not attached but can be easily found online.
 
-PCA is used to reduce the dimesions of the data so that the model can be developed in less time. Not only that but predictions too can be made quickly.
+PCA (Principal Component Analysis) and HOG (Histogram of Oriented Gradients) is used to reduce the dimesions of the data so that the model can be developed in less time. Not only that but predictions too can be made quickly.
 
 This was implemented using the MATLAB software.
 
