@@ -7,3 +7,5 @@ The dataset is not attached but can be easily found online.
 PCA is used to reduce the dimesions of the data so that the model can be developed in less time. Not only that but predictions too can be made quickly.
 
 This was implemented using the MATLAB software.
+
+The course instructor for this project was Dr. Wu Sheng Lu.
